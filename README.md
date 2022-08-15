@@ -2,7 +2,7 @@
 
 # Link to submission video.
 
-## **[Tech-Blog]()**
+## **[Tech-Blog](https://tech-2-blog.herokuapp.com/)**
 
 #  Liscense: 
 ##  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
